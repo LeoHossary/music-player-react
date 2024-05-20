@@ -1,0 +1,35 @@
+button {
+  all: unset;
+}
+
+.container-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.container-card:hover {
+  cursor: pointer;
+}
+
+.container-card img {
+  width: 195px;
+  height: 195px;
+}
+
+.container-card strong {
+  color: #fff;
+  font-family: roboto;
+  font-size: 18px;
+}
+
+.container-card p {
+  width: 195px;
+  height: auto;
+
+  color: #fff;
+
+  font-family: roboto;
+  font-size: 12px;
+  text-align: justify;
+}

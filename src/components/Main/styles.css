@@ -1,0 +1,26 @@
+.container-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 477px;
+}
+
+.title h1 {
+  margin-bottom: 18px;
+
+  font-size: 19px;
+  font-family: roboto;
+
+  color: #fff;
+}
+
+.cards {
+  display: flex;
+  gap: 27px;
+
+  border-top: 2px solid #6a6363;
+
+  padding-top: 9px;
+}

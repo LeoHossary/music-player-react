@@ -1,0 +1,22 @@
+.container-buttons {
+  display: flex;
+  justify-content: flex-start;
+  gap: 30px;
+
+  width: 420px;
+  padding: 0 30px;
+}
+
+.container-buttons button {
+  all: unset;
+}
+
+.container-buttons img {
+  transform: scale(0.75);
+
+  cursor: pointer;
+}
+
+.container-buttons img:hover {
+  transform: scale(0.85);
+}
