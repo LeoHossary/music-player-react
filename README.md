@@ -1,47 +1,24 @@
-![](https://i.imgur.com/xG74tOh.png)
+# Music Player com React :computer:
 
-# Aula prática de React - Cubos Player
+Este projeto consiste num music player realizado para fim de avaliação das habilidades em Front-End dos alunos em React pelo curso de Desenvolvimento de Software que realizei pela Cubos Academy. Nele haverá uma lista com as musicas disponíveis assim como seus títulos, capa e descrição. Além de conter uma barra de funções com botões para pausar, parar, dar play e navegar entre as músicas.
 
-Essa aula prática consiste em desenvolver um player de músicas, para isso você usará o layout figma que se encontra nesse [link](https://www.figma.com/file/2RRh9uG0Mjj6p4p6ekVnNp/Cubos-Player?node-id=0%3A1).
+![](./src/assets/demo.gif)
 
+## Como abrir? :gear:
 
-Caso você queira importar o arquivo do figma no seu computador, ele está nessa pasta com o nome `Cubos Player.fig`
+Depois que você der um `Fork` no repositório e `Clonar` para o seu dispositivo, é só abrir o console para e primeiro utilizar o comando `npm install` para instalar todas as dependências do projeto e depois usar o `npm run dev` para rodar a aplicação e poder abrí-la em seu navegador.
 
+## Contribuição :handshake:
 
-Os detalhes do que você precisará desenvolver está nos vídeos introdutórios da aula...
+Você pode contribuir com este repositório utilizando [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) e [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), seguindo os seguintes passos:
 
+- Crie uma `branch` da branch principal;
+- Faça suas contribuições;
+- Abra uma [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) para a branch principal;
+- Aguarde pela análise e futura aprovação.
 
-... mas o layout que você irá encontrar no figma é esse:
+Eu ficarei muito agradecido por sua contribuição :crossed_fingers:
 
-![](https://i.imgur.com/kU1nrcS.png)
+## Status
 
----
-### Dicas
-Não sabe por onde começar? Que tal começar olhando o que já existe dentro do projeto, após isso pense no projeto final e defina pequenas tarefas para chegar a esse resultado.
-
-No exercício será necessário:
-
-- Criar e manipular estado
-- Criar e manipular referências
-- Utilizar eventos de clique
-- Passar propriedades
-- Importar imagens
-- Executar uma ação várias vezes de tempo em tempo
-- Importar dados do arquivo json
-- Procurar itens
-
-
-As duas aulas anteriores são as mais importantes para você conseguir desenvolver esse projeto.
-
-
----
-
-Preencha a checklist para fazer os exercícios:
-
--   [ ] Fazer o fork do repositório para sua conta
--   [ ] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
--   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
--   [ ] Copiar a url do seu fork e enviar na plataforma
-
-###### tags: `módulo 3` `front-end` `React`
-
+Finalizado :heavy_check_mark:
